@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on school projects<br>🌱 I’m currently learning python and FastApi framework<br>⚡ Fun fact : love learning new languages and make friends
+🔭 I’m currently working on school projects<br>🌱 I’m currently learning python and FastApi framework<br>⚡ Fun fact : love learning new languages and making friends
 
 
 ## 🌐 Socials:
