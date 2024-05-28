@@ -1,12 +1,8 @@
- #####     ####    ######   ##  ##   ##  ##   ######   ##  ##   ##  ##  
- ##  ##     ##     ##       ### ##   ##  ##   ##       ### ##   ##  ##  
- ##  ##     ##     ##       ######   ##  ##   ##       ######   ##  ##  
- #####      ##     ####     ######   ##  ##   ####     ######   ##  ##  
- ##  ##     ##     ##       ## ###   ##  ##   ##       ## ###   ##  ##  
- ##  ##     ##     ##       ##  ##    ####    ##       ##  ##   ##  ##  
- #####     ####    ######   ##  ##     ##     ######   ##  ##    ####   
-                                                                        
+<div align="center">
+  <img height="400" src="https://media.giphy.com/media/rBszdmXbzglQUX7N4j/giphy.gif?cid=ecf05e479paz0l1lwnsyzeb2w167ho6gfbedup3gixhfswt7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
+###
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/alieva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/abubakaraliev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
